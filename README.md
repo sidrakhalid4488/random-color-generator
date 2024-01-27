@@ -1,1 +1,1 @@
-Click Button t Generate Random Colors 
+Click Button to Generate Random Colors 
